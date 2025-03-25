@@ -18,7 +18,6 @@ The project is divided into two main tasks:
   Implement image style transfer using a prompt-generation model (Phi‑4) and diffusion models (Stable Diffusion 3 for Text-to-Image and Stable Diffusion v1.5 for Image-to-Image).
 
 ## Directory Structure
-
 .
 ├── task1.py           # Code for Task 1: Image Captioning Evaluation
 ├── task2.py           # Code for Task 2: Image Style Transfer
